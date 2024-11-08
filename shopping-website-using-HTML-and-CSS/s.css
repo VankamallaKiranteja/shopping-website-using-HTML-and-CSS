@@ -1,0 +1,11 @@
+.navbar{
+  background-color: black;
+  color:red;
+  height: 60px;
+}
+.logo{
+  height:50px;
+  width: 100px;
+  background-image: url('amazon_logo.png');
+  background-size: cover;
+}
